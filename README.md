@@ -12,7 +12,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=shahsmit18122&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshahsmit18122&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/shahsmit18122-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](https://img.shields.io/badge/shahsmit18122-grey?style=flat&logo=telegram)](https://t.me/shah18122) <br>
 </div>
 
 <hr></hr>
