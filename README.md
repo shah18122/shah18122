@@ -7,7 +7,7 @@
 <br>my managing my stock market & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.shahsmit18122.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.shahsmit18122.vercel.app/api/spotify)](https://open.spotify.com/user/31rq2ofa5dvcih6iqcl35rxnfdaq) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=shahsmit18122&style=flat&color=orange&label=PROFILE+VIEWS)
