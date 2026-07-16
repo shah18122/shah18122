@@ -2,7 +2,7 @@
 
 # Hi, I'm Smit Shah 👋
 
-### Founder, RXT Global · Cyber Security · Quant Researcher & Developer · Trader
+### Founder, RXT Global · Cyber Security · Researcher & Developer · Trader
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=560&lines=Building+quant+strategies+at+RXT+Global;Trading+Nifty+%26+Bank+Nifty+options;CFA+%C2%B7+FRM+%C2%B7+CMT+%C2%B7+SEBI+RIA+in+progress;Cyber+security+meets+quant+research" alt="Typing SVG" />
 
